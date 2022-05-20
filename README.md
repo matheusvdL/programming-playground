@@ -1,1 +1,1 @@
-some exercises from trainning and learn code skills.
+some exercises from trainning and learning.
